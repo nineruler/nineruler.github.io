@@ -11,6 +11,6 @@ module.exports = {
   },
   utterances: {
     repo: "nineruler/nineruler.github.io",
-    type: "Blog",
+    type: "pathname",
   },
 }

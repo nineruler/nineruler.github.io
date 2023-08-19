@@ -10,7 +10,7 @@ module.exports = {
     email: "mailto:nineruler214@gmail.com",
   },
   utterances: {
-    repo: "devHudi/gatsby-starter-hoodie",
-    type: "pathname",
+    repo: "nineruler/nineruler.github.io",
+    type: "Blog",
   },
 }
